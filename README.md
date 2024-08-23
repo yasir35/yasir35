@@ -2,8 +2,7 @@
 <h3 align="center">A passionate Flutter Developer</h3>
 
 <p align="center">
- <img alt="Coding" width="200" height="200" src="[https://github.com/your-username/your-repository/blob/main/images/image.png?raw=true"](https://github.com/yasir35/yasir35/blob/main/github.gif) />
-
+<img src="https://github.com/yasir35/yasir35/blob/main/github.gif" alt="Coding" width="200" height="200" />
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yasir35&label=Profile%20views&color=0e75b6&style=flat" alt="yasir35" /> </p>
