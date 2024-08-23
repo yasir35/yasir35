@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasir Azeem</h1>
-<h3 align="center">A passionate Flutter Developer</h3>
+<h3 align="center">A Passionate Flutter Developer</h3>
 
 <p align="center">
 <img src="https://github.com/yasir35/yasir35/blob/main/github.gif" alt="Coding" width="250" height="300" />
@@ -9,7 +9,12 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasir35" alt="yasir35" /></a> </p>
 
-<p align="center"> <a href="https://www.linkedin.com/in/yasir-azeem-67103a157" target="blank"><img src="https://img.shields.io/twitter/follow/yasiraz72960623?logo=twitter&style=for-the-badge" alt="yasiraz72960623" /></a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/yasir-azeem-67103a157" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="Yasir Azeem LinkedIn" />
+  </a>
+</p>
+
 
 - 💬 Ask me about **Flutter, Dart, Node.js**
 - 📫 How to reach me: **yasirazeem83@gmail.com**
