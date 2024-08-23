@@ -8,8 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/yasiraz72960623" target="blank"><img src="https://img.shields.io/twitter/follow/yasiraz72960623?logo=twitter&style=for-the-badge" alt="yasiraz72960623" /></a> </p>
 
-- 🌱 I’m currently learning **Generative AI**
-
 - 💬 Ask me about **Flutter, Dart, Node js**
 
 - 📫 How to reach me **yasirazeem83@gmail.com**
