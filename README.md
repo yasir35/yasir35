@@ -10,7 +10,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasir35" alt="yasir35" /></a> </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yasir-azeem-67103a157" target="_blank">
+  <a href="https://www.linkedin.com/in/yasirazeem1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="Yasir Azeem LinkedIn" />
   </a>
 </p>
