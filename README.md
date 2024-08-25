@@ -21,7 +21,7 @@
 
 ## Connect with me:
 
-- LinkedIn: [Yasir Azeem](https://www.linkedin.com/in/yasir-azeem-67103a157)
+- LinkedIn: [Yasir Azeem](https://www.linkedin.com/in/yasirazeem1/)
 - Twitter: [@yasiraz72960623](https://twitter.com/yasiraz72960623)
 - Stack Overflow: [Yasir Azeem](https://stackoverflow.com/users/8790705/yasir-azeem)
 - Instagram: [@yasir3134](https://instagram.com/yasir3134)
